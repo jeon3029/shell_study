@@ -1,6 +1,9 @@
 # 공통
 
 ```sh
+$ echo $SHELL
+# 현재 shell 확인
+
 $ file script
 # 해당 파일이 어떤 파일일지 확인
 
